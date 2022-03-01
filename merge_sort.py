@@ -22,7 +22,7 @@ def merge_sort(arr):
 
         # While until j and i is greater than the lenght of the arr part
         while i < len(l) and j < len(r):
-            # Compare same index of the two arrays
+            # Compare same index of the two arrays, later compare the following index of the last less item...
             if l[i] < r[j]:
                 arr[k] = l[i]
                 i += 1
