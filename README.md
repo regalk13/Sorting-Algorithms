@@ -1,2 +1,2 @@
-# Sorting-Algorithms
+# Sorting Algorithms
 Sorting algorithms whit python
