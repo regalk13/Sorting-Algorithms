@@ -48,3 +48,4 @@ You can add more sort algorithms or version in other languages, just open a pull
 ## Thanks to...
 
 Algorithms MIT [Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm).
+Geeks for Geeks. [here](https://www.geeksforgeeks.org/)
